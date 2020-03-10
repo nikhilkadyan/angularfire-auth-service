@@ -1,3 +1,3 @@
-# expensekd-lsxp3n
+# angularfire-auth-service
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/expensekd-lsxp3n)
+To get Started with angularfire v5 with firebase auth.
